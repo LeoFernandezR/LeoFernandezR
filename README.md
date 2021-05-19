@@ -1,4 +1,19 @@
-### Hi there 👋
+## 👋 About me
+
+Hi! i'm a front end developer, Informatics Engineering student at Buenos Aires University, who enjoys building things for the web!
+
+## 💬 I can help you with
+
+- Responsive HTML & CSS(Sass, Bootstrap).
+- Website Mobile Optimization.
+- JavaScript, React/Redux, Gatsby.
+- High-level user experience.
+- SEO Improvements
+
+## 📫 You can reach me on:
+- Linkedin: https://www.linkedin.com/in/leonardo-fernandezr/
+- Wesbite: https://leonardofernandez.com
+- Phone: +54 9 11 55126153
 
 <!--
 **LeoFernandezR/LeoFernandezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
