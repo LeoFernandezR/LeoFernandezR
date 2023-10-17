@@ -1,12 +1,12 @@
 ## 👋 About me
 
-Hi! i'm a front end developer, Informatics Engineering student at Buenos Aires University, who enjoys building things for the web!
+Hi! i'm a Software Engineer at Nubiral, Computer Science student at Buenos Aires University, who enjoys building things for the web!
 
 ## 💬 I can help you with
 
 - Responsive HTML & CSS(Sass, Bootstrap).
 - Website Mobile Optimization.
-- JavaScript, React/Redux, Gatsby.
+- JavaScript/Typescript, React/Vue, Express, MySQL/PostgreSQL, MongoDB
 - High-level user experience.
 - SEO Improvements
 
